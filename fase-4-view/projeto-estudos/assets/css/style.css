@@ -1,0 +1,68 @@
+/* h1 {
+  color: darkblue;
+}
+h2 {
+  color: red;
+}
+p {
+  color: darkgreen;
+  font-size: 18px;
+} */
+
+/* Conceitos de Herança */
+
+body {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+/* Formatação de Textos */
+p {
+  font-size: 20px;
+  font-weight: 600;
+  /* text-align: left;
+  font-style: italic;
+  text-decoration: line-through;
+  text-transform: capitalize;
+  word-spacing: 15px;
+  letter-spacing: 5px; */
+  line-height: 32px;
+}
+
+h2 {
+  color: dodgerblue;
+  font-size: 20px;
+}
+
+h3 {
+  color: rgb(31, 199, 255, 0.75); /* RGB - Apesar de ser usar, é muito verboso*/
+  color: rgba(229, 31, 255, 0.75); /* RGBA*/
+  color: #66ff1fbf; /* Hexadecimal*/
+}
+
+/* Formatação de Listas */
+ol {
+  list-style: lower-roman;
+  list-style: upper-alpha;
+  list-style: lower-alpha;
+  list-style: upper-alpha;
+}
+
+ul {
+  list-style: circle;
+}
+
+img {
+  width: 50%;
+  border-radius: 10px;
+  /* filter: blur(10px); */
+  /* filter: brightness(200%); */
+  /* filter: opacity(100%);*/
+  /* filter: saturate(100%); */
+  /* filter: contrast(150%); */
+  /* filter: drop-shadow(10px 20px 20px #dc143c); */
+  filter: grayscale(100%);
+}
