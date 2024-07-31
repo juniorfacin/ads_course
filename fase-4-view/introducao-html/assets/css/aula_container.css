@@ -1,0 +1,31 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+div {
+    color: #FFFFFF;
+   width: 500px;
+   height: 400px;
+   /* background-color: #ccc; */
+   /* margin: 20px 60px 80px 120px; */
+    /* margin-left: 30px;
+    margin-bottom: 60px; */
+    margin: 20px auto;
+    /* border-style: solid;
+    border-color: #dc143c; */
+    /*Shorthand para a propriedade Border */
+    /* border: 5px solid #dc143c; */
+    /* Espaçamento interno - Padding */
+    /* padding: 20px; */
+    box-sizing: border-box;
+    box-shadow: 1px 1px 2px 5px #ccc;
+    border-radius: 10px;
+    /* background-color: #dc143c; */
+    background-image: url(../images/aurora_boreal.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    background-attachment: fixed;
+
+
+}

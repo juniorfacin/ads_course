@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* div {
+  width: 90%;
+  height: 80px;
+  margin: 10px auto;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #dc143c;
+} */
+
+/* Seletor ID  */
+#conteudo {
+  background-color: #dc143c;
+  color: #ffffff;
+  text-align: center;
+}
+
+.container {
+  width: 300px;
+  height: 50px;
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px #000000;
+  color: #fff;
+  text-align: center;
+}
+
+.bg-blue {
+  background-color: #369;
+}
+
+.bg-red {
+  background-color: #900;
+}
+
+.bg-green {
+  background-color: #090;
+}
+
+/* Seletor Descendente
+div p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 100px;
+  margin: 20px;
+  padding: 10px;
+  border: solid 1px #000000;
+  background-color: #dc143c;
+  color: #fff;
+} */
+
+/* Seletor Adjacente
+ul + p {
+  width: 300px;
+  height: 50px;
+  background-color: #dc143c;
+  color: #fff;
+  margin: 10px;
+} */
+
+/* Seletor Irmão
+ul ~ p {
+  width: 300px;
+  height: 100px;
+  background-color: #dc143c;
+  color: #fff;
+  margin: 10px;
+} */
+
+/* Seletor Filho
+.container > p {
+  width: 300px;
+  height: 50px;
+  background-color: #dc143c;
+  color: #fff;
+  margin: 10px 0;
+} */

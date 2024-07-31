@@ -1,0 +1,66 @@
+* {
+  /* margin: 0;
+  padding: 0; */
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Hover 
+li {
+  margin: 20px 40px;
+}
+
+li:hover {
+  width: 300px;
+  height: 50px;
+  background-color: #dc143c;
+  color: #fff;
+} */
+
+/* Formatação CSS padrão */
+.box {
+  width: 150px;
+  height: 50px;
+  border-radius: 7px;
+  border: 1px solid #dc143c;
+  padding: 10px;
+  margin: 10px;
+}
+/* Formatação CSS com a pseudo-classe */
+/* .box:nth-child(even) {
+  background-color: #dc143c;
+  color: #ffffff;
+}
+
+.box:nth-child(odd) {
+  background-color: #3c5385;
+  color: #ffffff;
+} */
+
+/* .box:first-child {
+  background-color: #369;
+  color: #fff;
+}
+
+.box:last-child {
+  background-color: #090;
+  color: #fff;
+} */
+
+/* .box:not(.no-color) {
+  background-color: #dc143c;
+  color: #fff;
+} */
+
+/*:where(.bg-color, h2, h3, h4) {
+  background-color: #dc143c;
+  color: #fff;
+}
+h4 {
+  background-color: rgb(63, 15, 75);
+} */
+
+.box:has(p) {
+  background-color: #dc143c;
+  color: #fff;
+}

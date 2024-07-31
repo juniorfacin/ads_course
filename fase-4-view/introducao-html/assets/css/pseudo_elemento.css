@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Formatação da Primeira Linha */
+/* p::first-line {
+  background-color: #dc143c;
+  color: #fff;
+  font-weight: 900;
+} */
+
+/* Formatação ao selecionar algum elemento na tela */
+/* p::selection {
+  background-color: #1f1f68;
+  color: #fff;
+} */
+
+/* Formatação - ::before e ::after + content */
+.box {
+  width: 400px;
+  height: 250px;
+  background-color: #f2f2f2;
+  border: solid 1px #000000;
+  text-align: center;
+  padding: 20px;
+}
+
+.box::before {
+  content: "Minha Aplicação Web";
+  background-color: #cccccc;
+  padding: 10px;
+}
+
+.box::after {
+  content: "Meu Projeto";
+  background-color: #cccccc;
+  margin: 20px;
+  padding: 10px;
+}
