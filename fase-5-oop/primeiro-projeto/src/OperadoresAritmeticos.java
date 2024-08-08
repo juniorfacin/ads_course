@@ -9,16 +9,16 @@ public class OperadoresAritmeticos {
         int multiplicacao = a * b; // 10 * 3 = 30
         int divisao = a / b; // 10 / 3 = 3 (cuidado, a divisão por números inteiros descarta as casas decimais)
         int modulo = a % b; // 10 % 3 = 1 (resto da divisão)
-        int incremento = a++; // 10 + 1 = 11
-        int decremento = a--; //10 - 1 = 9
+        a++ ; // 10 + 1 = 11
+        b-- ; //3 - 1 = 2
 
         System.out.println(soma);
         System.out.println(subtracao);
         System.out.println(multiplicacao);
         System.out.println(divisao);
         System.out.println(modulo);
-        System.out.println(incremento);
-        System.out.println(decremento);
+        System.out.println("Incremento: " + a);
+        System.out.println("Decremento: " + b);
 
         for (int i = 1; i <= 5; i++) {
 
