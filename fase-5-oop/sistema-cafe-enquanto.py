@@ -12,7 +12,7 @@ while continuar_pedido:
     if tamanho_cafe == 'F':
         continuar_pedido = False
     else:
-        tipo_cafe = input("Escolha o tipo de café: (E) Espresso, (C) Cappuccino, (L) Latte").upper()
+        tipo_cafe = input("Escolha o tipo de café: (E) Espresso, (C) Cappuccino, (L) Latte: ").upper()
 
         preco = 0
 
