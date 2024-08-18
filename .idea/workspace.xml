@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587531bf-ef4c-4680-bd86-51ea4c173393" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/cap03-estruturas-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/CafeJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/CafeJavaDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/DecisaoPasseio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/DesafioIntegrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/Enquanto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/ExemploDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/ExemploFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/FastTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/JogoAdivinhacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/LeituraDadosExemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/NumeroSecreto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/NumerosPrimos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/OperadoresAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/PremiacaoCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/SistemaDeNotas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/SistemaPedidoCafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/Sorveteria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/ValidacaoIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/cap03-estruturas-java/src/VariaveisExemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/exemplo-for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/jogo-adivinhacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/numeros-primos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/sistema-cafe-enquanto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fase-5-oop/while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/primeiro-projeto/primeiro-projeto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/primeiro-projeto/src/DesafioIntegrado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/primeiro-projeto/src/FastTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/primeiro-projeto/src/LeituraDadosExemplo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/primeiro-projeto/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/primeiro-projeto/src/OperadoresAritmeticos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/primeiro-projeto/src/VariaveisExemplo.java" beforeDir="false" />
-    </list>
+    <list default="true" id="587531bf-ef4c-4680-bd86-51ea4c173393" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,22 +10,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "juniorfacin"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;juniorfacin&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "git@github.com:juniorfacin/ads_course.git",
-    "accountId": "3201e326-e0a3-4fab-a717-12536cdf9168"
+    "accountId": "c828aae8-8674-4f19-8629-a033bdb7969c"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kgm1L1Mqt7DjbwGWvGt2gcfF5n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -76,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/ads_course",
+    "last_opened_file_path": "/Users/juniorfacin/meus_projetos/ads_course",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -84,8 +44,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
       </set>
     </attachedChunks>
   </component>
@@ -98,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723713377733</updated>
       <workItem from="1723713378760" duration="27000" />
+      <workItem from="1723988318572" duration="185000" />
     </task>
     <servers />
   </component>
