@@ -8,4 +8,9 @@ public class HabilidadeEspecial {
         this.custoEnergia = custoEnergia;
         this.habilitada = habilitada;
     }
+
+    public void ativarHabilidade() {
+        habilitada = true;
+        System.out.println("Habilidade ativada com sucesso!");
+    }
 }

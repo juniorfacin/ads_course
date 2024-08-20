@@ -9,7 +9,8 @@ public class Menu {
         int op;
 
         do {
-            System.out.println("\nEscolha uma opção: \n1-Cadastrar Personagem \n2-Exibir Personagem \n0-Sair");
+            System.out.println("\nEscolha uma opção: \n1-Cadastrar Personagem \n2-Exibir Personagem \n3-Atacar " +
+                    "\n4-Aumentar Energia \n5-Ativar Habilidade Especial \n6-Habilitar a Habilidade Especial \n0-Sair");
             op = sc.nextInt();
             sc.nextLine();
 
@@ -54,6 +55,23 @@ public class Menu {
                             personagem.habilidadeEspecial.custoEnergia,
                             personagem.habilidadeEspecial.habilitada);
                     break;
+                case 3:
+                    System.out.println("Digite o nome do ataque: ");
+                    String ataque = sc.nextLine();
+                    personagem.atacar(ataque);
+                    break;
+                case 4:
+                    System.out.println("Digite a quantiadade de energia: ");
+                    int qtd = sc.nextInt();
+                    int nivelEnergiaAtual = personagem.aumentarEnergia(qtd);
+                    System.out.printf("Nível de energia atual: %d%n",nivelEnergiaAtual);
+                    break;
+                case 5:
+                    personagem.ativarHabilidadeEspecial();
+                    break;
+                case 6:
+                    personagem.habilidadeEspecial.ativarHabilidade();
+                    break;
                 case 0:
                     System.out.println("Finalizando o programa...");
                     break;
@@ -63,6 +81,5 @@ public class Menu {
         } while(op != 0);
 
         sc.close();
-
     }
 }
