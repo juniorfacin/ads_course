@@ -15,24 +15,20 @@ public class Main {
             System.out.println("5-Aplicar Desconto");
             System.out.println("0-Sair");
             opcao = scanner.nextInt();
-            scanner.nextLine(); // Consumir a quebra de linha
+            scanner.nextLine();
 
             switch (opcao) {
                 case 1:
                     System.out.println("Digite o nome do produto:");
                     String nome = scanner.nextLine();
-
                     System.out.println("Digite o preco do produto:");
                     double preco = scanner.nextDouble();
-                    scanner.nextLine(); // Consumir a quebra de linha
-
+                    scanner.nextLine();
                     System.out.println("Digite a quantidade em estoque:");
                     int quantidade = scanner.nextInt();
-                    scanner.nextLine(); // Consumir a quebra de linha
-
+                    scanner.nextLine();
                     produto = new Produto(nome, preco, quantidade);
                     break;
-
                 case 2:
                     if (produto != null) {
                         produto.exibirInformacoes();
@@ -40,13 +36,9 @@ public class Main {
                         System.out.println("Nenhum produto cadastrado!");
                     }
                     break;
-
-                // Outros cases para as demais funcionalidades...
-
                 case 0:
                     System.out.println("Saindo...");
                     break;
-
                 default:
                     System.out.println("Opção inválida!");
                     break;

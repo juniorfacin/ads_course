@@ -14,13 +14,14 @@ public class Produto {
     public void exibirInformacoes() {
         System.out.println("Nome do produto: " + nome);
         System.out.println("Preço: R$" + preco);
-        System.out.println("Quantidade em estoque: " + quantidade);
+        System.out.println("Quantidade em estoque: " + quantidade + "\n");
+
     }
 
     public void comprar(int quantidadeComprada) {
         if (quantidadeComprada <= quantidade) {
             quantidade -= quantidadeComprada;
-            System.out.println("Compra realizada com sucesso! Quantidade restante: " + quantidade);
+            System.out.println("Compra realizada com sucesso! Quantidade restante: " + quantidade + "\n");
         } else {
             System.out.println("Quantidade insuficiente em estoque!");
         }
@@ -28,12 +29,12 @@ public class Produto {
 
     public void adicionarEstoque(int quantidadeAdicional) {
         quantidade += quantidadeAdicional;
-        System.out.println("Quantidade adicionada ao estoque. Novo total: " + quantidade);
+        System.out.println("Quantidade adicionada ao estoque. Novo total: " + quantidade + "\n");
     }
 
     public void aplicarDesconto(double percentualDesconto) {
         double desconto = preco * (percentualDesconto / 100);
         preco -= desconto;
-        System.out.println("Desconto aplicado! Novo preço: R$" + preco);
+        System.out.println("Desconto aplicado! Novo preço: R$" + preco + "\n");
     }
 }

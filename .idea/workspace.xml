@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587531bf-ef4c-4680-bd86-51ea4c173393" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/cap6-metodos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/src/Calculadora.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/src/Doce.java" beforeDir="false" />
-    </list>
+    <list default="true" id="587531bf-ef4c-4680-bd86-51ea4c173393" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +34,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/meus-projetos/ads_course",
+    "last_opened_file_path": "/Users/juniorfacin/meus_projetos/ads_course",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -52,8 +44,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
       </set>
     </attachedChunks>
   </component>
@@ -68,6 +60,7 @@
       <workItem from="1723713378760" duration="27000" />
       <workItem from="1723988318572" duration="185000" />
       <workItem from="1724195098278" duration="56000" />
+      <workItem from="1724317260622" duration="22000" />
     </task>
     <servers />
   </component>
