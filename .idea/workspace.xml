@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="587531bf-ef4c-4680-bd86-51ea4c173393" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/cap6-metodos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/src/Calculadora.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap6-metodos/src/Doce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap5-classes/src/br/com/fiap/desafio/model/Cidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/fase-5-oop/cap5-classes/src/br/com/fiap/desafio/model/Cidade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +22,12 @@
     &quot;assignee&quot;: &quot;juniorfacin&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:juniorfacin/ads_course.git&quot;,
-    &quot;accountId&quot;: &quot;c828aae8-8674-4f19-8629-a033bdb7969c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:juniorfacin/ads_course.git",
+    "accountId": "2a1e8c26-997f-46c7-b1b9-cc7f514a530a"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
@@ -45,6 +43,10 @@
     "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Desktop/meus-projetos/ads_course",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -68,6 +70,7 @@
       <workItem from="1723713378760" duration="27000" />
       <workItem from="1723988318572" duration="185000" />
       <workItem from="1724195098278" duration="56000" />
+      <workItem from="1725527841145" duration="1077000" />
     </task>
     <servers />
   </component>
