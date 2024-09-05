@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="587531bf-ef4c-4680-bd86-51ea4c173393" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fase-5-oop/cap5-classes/src/br/com/fiap/desafio/model/Cidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/fase-5-oop/cap5-classes/src/br/com/fiap/desafio/model/Cidade.java" afterDir="false" />
-    </list>
+    <list default="true" id="587531bf-ef4c-4680-bd86-51ea4c173393" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,24 +19,29 @@
     &quot;assignee&quot;: &quot;juniorfacin&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:juniorfacin/ads_course.git",
-    "accountId": "2a1e8c26-997f-46c7-b1b9-cc7f514a530a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:juniorfacin/ads_course.git&quot;,
+    &quot;accountId&quot;: &quot;2a1e8c26-997f-46c7-b1b9-cc7f514a530a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2kgm1L1Mqt7DjbwGWvGt2gcfF5n" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Desktop/meus-projetos/ads_course",
@@ -71,10 +73,14 @@
       <workItem from="1723988318572" duration="185000" />
       <workItem from="1724195098278" duration="56000" />
       <workItem from="1725527841145" duration="1077000" />
+      <workItem from="1725529256955" duration="395000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
