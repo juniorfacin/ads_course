@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ads_course.iml" filepath="$PROJECT_DIR$/ads_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ads_course.iml" filepath="$PROJECT_DIR$/.idea/ads_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fase05-oop/cap05-classes/cap05-classes.iml" filepath="$PROJECT_DIR$/fase05-oop/cap05-classes/cap05-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fase05-oop/cap06-methods/cap06-methods.iml" filepath="$PROJECT_DIR$/fase05-oop/cap06-methods/cap06-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fase05-oop/fase05-OOP.iml" filepath="$PROJECT_DIR$/fase05-oop/fase05-OOP.iml" />
     </modules>
   </component>
 </project>
