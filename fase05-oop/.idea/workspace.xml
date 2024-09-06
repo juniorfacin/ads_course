@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72992355-ad02-44f7-a6be-cb193a35cb6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ads_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ads_course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/.idea/fase-5-oop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/.idea/fase-5-oop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/cap03-estruturas-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/CafeJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CafeJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/CafeJavaDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CafeJavaDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/DecisaoPasseio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecisaoPasseio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/DesafioIntegrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioIntegrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/Enquanto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enquanto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/ExemploDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExemploDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/ExemploFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExemploFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/FastTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FastTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/JogoAdivinhacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JogoAdivinhacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/LeituraDadosExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeituraDadosExemplo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/NumeroSecreto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumeroSecreto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/NumerosPrimos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumerosPrimos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/OperadoresAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperadoresAritmeticos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/PremiacaoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PremiacaoCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/SistemaDeNotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaDeNotas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/SistemaPedidoCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaPedidoCafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/Sorveteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorveteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/ValidacaoIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidacaoIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap03-estruturas-java/src/VariaveisExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveisExemplo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap07-encapsulamento/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap07-encapsulamento/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/cap5-classes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/cap5-classes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/src/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/src/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/src/AlunoView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/src/AlunoView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/src/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/src/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/src/HabilidadeEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/src/HabilidadeEspecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/src/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/src/ItemView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/src/ItemView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/src/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/src/PersonagemMagico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/src/PersonagemMagico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap05-classes/src/br/com/fiap/desafio/model/Cidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap05-classes/src/br/com/fiap/desafio/model/Cidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap07-encapsulamento/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap07-encapsulamento/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap07-encapsulamento/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap07-encapsulamento/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap07-encapsulamento/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap07-encapsulamento/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap07-encapsulamento/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap07-encapsulamento/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap08-heranca/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap08-heranca/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap08-heranca/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap08-heranca/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap08-heranca/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap08-heranca/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap08-heranca/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap08-heranca/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap08-heranca/cap08-heranca.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap08-heranca/cap08-heranca.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/cap5-classes/src/br/com/fiap/desafio/model/Cidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/cap5-classes/src/br/com/fiap/desafio/model/Cidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/exemplo-for.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/exemplo-for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/jogo-adivinhacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/jogo-adivinhacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/numeros-primos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/numeros-primos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/out/production/cap5-classes/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/out/production/cap5-classes/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/out/production/cap5-classes/AlunoView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/out/production/cap5-classes/AlunoView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/out/production/cap5-classes/Endereco.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/out/production/cap5-classes/Endereco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/out/production/cap5-classes/HabilidadeEspecial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/out/production/cap5-classes/HabilidadeEspecial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/out/production/cap5-classes/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/out/production/cap5-classes/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/out/production/cap5-classes/ItemView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/out/production/cap5-classes/ItemView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/out/production/cap5-classes/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/out/production/cap5-classes/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/out/production/cap5-classes/PersonagemMagico.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/out/production/cap5-classes/PersonagemMagico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/sistema-cafe-enquanto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/sistema-cafe-enquanto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/sistema-cafe.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/sistema-cafe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/sorveteria.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/sorveteria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/tabuada.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/tabuada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fase-5-oop/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fase-5-oop (antigo)/while.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "juniorfacin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:juniorfacin/ads_course.git",
+    "accountId": "2a1e8c26-997f-46c7-b1b9-cc7f514a530a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2lfUvuhS8aeY1EQUgAAPWzYfYY8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlunoView.executor": "Run",
+    "Application.CafeJava.executor": "Run",
+    "Application.CafeJavaDoWhile.executor": "Run",
+    "Application.Enquanto.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72992355-ad02-44f7-a6be-cb193a35cb6b" name="Changes" comment="" />
+      <created>1725570860544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725570860544</updated>
+      <workItem from="1725570861620" duration="531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
